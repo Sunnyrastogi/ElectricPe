@@ -1,0 +1,244 @@
+.home-page-header{
+    background-color: black;
+    padding-top: 120px;
+}
+.About-page-header{
+    background-color:black;
+}
+.Rent-ev-page-header{
+    background-color:black;
+}
+.contact-page-header{
+    background-color:black;
+}
+.header-text-heading{
+    font-family: poppins,sans-serif;
+    font-size:56px;
+    font-weight:900;
+    color:#ffffff;
+}
+.title{
+    font-size:30px;
+}
+store-locator {
+    font-family: Roboto, Arial, sans-serif;
+
+    display: block;
+
+    width: 100%;
+    height: 400px;
+
+    margin: 0px;
+    padding: 0px
+}
+
+.web-component-template {
+    display: none;
+}
+
+store-locator > div {
+    height: 100%;
+}
+
+.store-locator__input {
+    margin-top: 9px;
+    margin-left: 9px;
+
+    width: 230px;
+}
+
+store-locator .gm-style-iw > div {
+    width: 225px;
+    height: 60px;
+    padding: 5px;
+}
+
+/* contact-page-css */
+.contact-heading-first{
+    font-size:35px;
+    color:black;
+    font-weight: 500;
+}
+.contact-sec-background{
+    background-color:#F5F6F7;
+}
+.contact-sec-back-2{
+    background-color:black;
+}
+.contact-sec-heading{
+    font-size:40px;
+    color:#ffffff;
+    font-weight:700;
+}
+.Contact-para{
+    color:#ffffff;
+}
+.form-field{
+    text-align: left;
+    padding: 10px 59px 10px 59px;
+}
+.elementor-field-label{
+ 
+    font-size:14px;
+    font-weight:500;
+    color:#ffffff;
+    
+}
+.form-button-style{
+     text-align: center;
+}
+.elementar-input-style{
+    height:50px;
+}
+/* About section css */
+.about-background{
+    background-image: url("../assets/images/about.jpg");
+    background-size: cover;
+    
+}
+@media (max-width:767px)
+
+{.about-background
+{
+min-height: 400px!important;
+width: 100% !important;
+
+}
+}
+#overlay{
+    background-color: #131313;
+
+}
+.about-background-2{
+    background-color:#ffffff;
+}
+.about-background-2 p {
+    padding: 7% 7% 0% 7%;
+    text-align: left;
+    color:black;
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 2em;
+}
+.head-elec-mob{
+  color:#ffffff;
+    font-size: 72px;
+    text-align: left;
+    font-weight: 800;
+    font-family: "Poppins", Sans-serif;
+    line-height: 85px;
+    padding:80px 80px 80px 80px;
+   
+}
+@media (max-width:767px){
+    .head-elec-mob{
+    
+ font-size: 50px;
+    
+}}
+.about-section-mid{
+    background-color:black;
+}
+.about-sec-mid{
+    font-size:50px;
+    font-family: "Poppins", Sans-serif;
+    font-weight:900;
+    color:#ffffff;
+}
+.About-sec-last-heading {
+    font-size: 45px;
+    font-weight: 600;
+    color:#131313;
+    font-family: "Poppins", Sans-serif;
+}
+.about-sec-last-para{
+    text-align: center;
+    color: #131313;
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 2em;
+}
+.blume-img{
+    width: 70%;
+    max-width: 235px;
+}
+.about-invester-sec{
+    font-size: 55px;
+    font-weight: 600;
+    color: #131313;
+    font-family: "Poppins", Sans-serif;
+}
+.about-invest-para{
+    font-size: 18px;
+    color:black;
+}
+.about-sec-last-btn{
+    border:2px solid #4CBB17;
+    background-color: #4CBB17;
+    border-radius: 5px;
+    color:#ffffff;
+    padding:12px;
+}
+.desig-head{
+    color:#ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    text-align:left;
+}
+.name-head{
+    color:#ffffff;
+    font-size: 34px;
+    text-align: left;
+    font-weight: 800;
+}
+.person-border{
+    border:2px solid #4CBB17;
+    height:520px;
+    /* width: 350px; */
+    margin-top: 0px;
+    margin-bottom: 0px;
+  
+    padding-top: 35px;
+    padding-right: 35px;
+    padding-bottom: 35px;
+    padding-left: 35px;
+}
+@media (max-width:767px){
+   .person-border {
+     margin-bottom: 20px;
+    }
+}
+.per-para{
+    color:#ffffff;
+    text-align: left;
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    
+}
+.per-img{
+    height:73px;
+    width:72px;
+}
+.per-box-sty{
+    display: flex;
+}
+.contact-sec-last-btn{
+    border:2px solid green;
+    background-color: green;
+    color:#ffffff;
+    padding:5px;
+}
+.border-responsive{
+    gap: 35px;
+    justify-content: center;
+}
+@media (min-width:1200px)  {
+    .col-lg-45{
+        flex: 0 0 auto;
+        width: 27.333333%;
+    }   
+    
+}

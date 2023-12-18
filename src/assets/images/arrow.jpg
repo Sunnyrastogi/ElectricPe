@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="29b40a9a-2ea5-4b7b-96f1-20fcc01eb9d8"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="4e6ff684-8e58-424c-a242-edf71f7cbb66"  >
+</g>
+<g transform="matrix(2.41 0 0 2.41 540 540)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(241,239,234); fill-rule: nonzero; opacity: 1;"  transform=" translate(-224.02, -256)" d="M 190.5 66.9 L 212.7 44.7 C 222.1 35.300000000000004 237.29999999999998 35.300000000000004 246.6 44.7 L 441 239 C 450.4 248.4 450.4 263.6 441 272.9 L 246.6 467.3 C 237.2 476.7 222 476.7 212.7 467.3 L 190.5 445.1 C 181 435.6 181.2 420.1 190.9 410.8 L 311.4 296 L 24 296 C 10.7 296 0 285.3 0 272 L 0 240 C 0 226.7 10.7 216 24 216 L 311.4 216 L 190.9 101.2 C 181.1 91.9 180.9 76.4 190.5 66.9 z" stroke-linecap="round" />
+</g>
+</svg>

@@ -1,0 +1,501 @@
+/* main section css */
+.head-banner {
+    background-image: url("../assets/images/head-banner.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 599px;
+    /* top: -108px; */
+    /* position: relative; */
+}
+a{
+    text-decoration: none;
+}
+
+.top-banner-head{
+    color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 85px;
+    letter-spacing: 2.5px;
+}
+ .top-banner-mid{
+    color: #FFFFFF;
+    font-size: 16px;
+
+ }
+
+ .top-ban-end{
+    color:#FFFFFF;
+    font-size: 20px;
+    text-decoration: none!important;
+    font-weight: 700;
+    Border:1px solid #52ff00;
+    border-radius:5px ;
+    background-color: transparent;
+    padding: 15px 22px 15px 22px;
+    background-image: linear-gradient(14deg, #4cbb176e -55%, #000000 100%);
+ }
+ .top-ban-end-2{
+    Border:1px solid #52ff00;
+    border-radius:5px ;
+    background-color: transparent;
+    padding: 15px 22px 15px 22px;
+    color:#FFFFFF;
+    font-size: 20px;
+    text-decoration: none!important;
+    background-image: linear-gradient(9deg, #4CBB179C 0%, #123601 100%);
+ }
+ .d-flex {
+    display: flex!important;
+    justify-content: center;
+}
+.mid-banner{
+    text-align:center;
+ }
+.bik-img{
+    width:100%;
+}
+@media (max-width: 767px)
+{.top-ban-end
+    {
+font-size:13px!important;
+    }
+}
+@media (max-width: 767px)
+{.top-ban-end-2
+    {
+font-size:13px!important;
+    }
+}
+
+.ev-head{
+    font-family: "Poppins", Sans-serif;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 76px;
+    letter-spacing: 2.5px;
+    text-align:left;
+   
+}
+.ev-head-first{
+    font-family: "Poppins", Sans-serif;
+    font-size: 57px;
+    font-weight: 700;
+    line-height: 76px;
+    letter-spacing: 2.5px;
+    color:#FFFFFF;
+    text-align: left;
+}
+.ev-head-first-ext{
+    font-family: "Poppins", Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 2.5px;
+    color:#FFFFFF;
+}
+
+.ev-para {
+    color: #040404;
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30.5px;
+    text-align: left;
+}
+
+@media (max-width: 767px)
+{
+    .Elec-char
+    {
+        background-image:url(https://electricpe.com/wp-content/uploads/2023/09/nikhila_glowing-2-1-overlay-1.webp)!important;
+        background-size: cover!important;
+        background-position: center left!important;
+        background-repeat: no-repeat!important;
+    
+    }
+}
+.Elec-char{
+    background-image:url("../assets/images/pogo.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;
+}
+.elec-char-end {
+    color: #F3F2EE;
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20.5px;;
+    text-align: left;
+
+}
+@media (max-width:767px)
+{.elec-char-end
+    {
+    font-size: 13px;
+    font-weight: 400;
+    padding: 22px 21px 20px 111px;
+    line-height: 20px;
+    text-align: right;
+    }
+}
+@media (max-width: 767px)
+{
+.ev-head-first {
+    font-size: 22px;
+    line-height: 1;
+    text-align: right;
+}}
+
+
+
+@media (max-width: 767px){
+   .top-banner-head {
+        font-size: 25px;
+        line-height: 85px;
+    }
+}
+.Ev-char-simp {
+    background-image: url(https://electricpe.com/wp-content/uploads/2023/08/Group-34491.png);
+    background-repeat: no-repeat;
+    background-color: #000000;
+    height: 674px;
+    width: 100%;
+    background-position: -125px -25px;
+    background-size: cover;
+}
+.elementar-para-style{
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.6em;
+    color:#FFFFFF;
+    text-align: left;
+}
+@media (max-width:767px){
+    .Ev-char-simp{
+        background-image:url("../assets/images/vogo.png");
+        background-repeat: no-repeat;
+        background-color: #000000;
+        background-position:center center;
+        height:989px;
+    }
+}
+.qr{
+    max-height: 50px;
+    max-width: 50px;
+    fill: #4CBB17;
+    color: #4CBB17;
+    border-color: #4CBB17
+}
+/* @media (max-width:991px){
+    .qr-scan-style{
+      position:relative;
+      right:113px;
+    }
+} */
+
+.eva{
+    color:#FFFFFF;
+    text-align: left;
+}
+.keva{
+    color:#FFFFFF;
+    font-size: 16px;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+  
+}
+
+.zeva{
+    text-align: center;
+}
+.find {
+    color: #131313;
+    font-family: "Poppins", Sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 51px;
+}
+.Arrow {
+    width: 13px;
+color: white!important;
+}
+.elec-btn{
+    background-color: #4CBB17;
+    border: 2px solid #4CBB17;
+    border-radius: 5px;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 500;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+}
+/* @media (max-width:767px) {
+    .phone-styl
+{
+background-image: url("../assets/images/mobilephone.jpg");
+width:100%;
+}
+    
+} */
+/* 
+@media(max-width:320px)
+{
+    .elementar-head-style{
+        position: relative!important;
+        right: 13px!important;
+    }
+} */
+/* .elementar-head-style{
+    position: relative;
+    right: 70px;
+} */
+.phone-styl{
+    width: 70%;
+    max-width: 466px;
+    position: relative;
+    right: 12px;
+    top: 26px;
+}
+.del-pho {
+    background-image: url(../assets/images/delhi.jpg);
+    background-repeat: round;
+    min-height: 456px;
+    width: 100%;
+  
+}
+.Ban-pho{
+    background-image: url(../assets/images/banglore.jpg);
+    background-repeat: round;
+    min-height: 456px;
+    width: 100%;
+  
+}
+.hyd-pho{
+    background-image: url(../assets/images/hyderabad.jpg);
+    background-repeat: round;
+    min-height: 456px;
+    width: 100%;
+
+}
+.pho-coll{
+    display: flex;
+
+}
+@media (max-width:767px){
+.pho-coll
+    {
+display:flex;
+flex-direction: column;
+
+    }
+}
+.del-pho h2{
+    color:#FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-size: 54px;
+    font-weight: 700;
+    text-align: center;
+}
+.Ban-pho h2{
+    color:#FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-size: 54px;
+    font-weight: 700;
+    text-align: center;
+}
+.hyd-pho h2{
+    color:#FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-size: 54px;
+    font-weight: 700;
+    text-align: center;
+}
+.visit-banner{
+    background-image: url(https://electricpe.com/wp-content/uploads/2023/10/Group-34585-2-scaled.webp);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 560px;
+    background-position: 50%!important;
+    background-size: cover;
+}
+@media (max-width:767px){
+   .visit-banner {
+    background-image: url(https://electricpe.com/wp-content/uploads/2023/10/Group-34585-2-scaled.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 48%!important;
+    }
+}
+.visit-down{
+    background-color: #000000;
+}
+.card-ban {
+    color: white;
+    border: 3px solid #4CBB17;
+    border-radius: 25px;
+    text-align: left;
+    padding: 16px;
+    height:250px;
+}
+.elem-btn-text{
+    color:#4CBB17;
+    font-weight: 500;
+}
+.namer{
+    background-color: black;
+    border: 1px solid white;
+    padding: 15px 11px 15px 6px;
+    color: white;
+    width: 100%;
+}
+
+.telepho{
+   
+    list-style-type: none;
+}
+li.telepho{
+    padding-right:50px;
+}
+.sub-btn {
+    background-color: black;
+    border: 1px solid #4CBB17;
+    padding: 12px 47px 12px 44px;
+    color: white;
+
+}
+.store-bottom-banner{
+    width:100%;
+    height:auto;
+}
+.form-head{
+    border-top: 3px solid green;
+    padding: 24px;
+}
+h2{
+    color:white;
+}
+.foot-testimonial-sec{
+    background-image: url("../assets/images/testimonial.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px!important ;
+    background-color: #0B2200!important;
+    background-blend-mode:luminosity;
+}
+.test{
+    color:#FFFFFF;
+    font-size: 74px;
+    text-align: center;
+    padding-top:85px;
+}
+@media (max-width:767px)
+{.test
+    {
+font-size:50px;
+}
+}
+.map-header-sec-first {
+    list-style-type: none;
+    text-align: left;
+}
+.pay-style{
+    width:35px;
+    height:40px;
+    fill:#4CBB17!important;
+}
+.carousel-style{
+border-radius: 50%;
+width:80px!important;
+}
+.carousel-background{
+    background-color:#0C0C0C;
+}
+.owl-carousel .owl-item img {
+    display:unset!important;
+    width: 100%;
+}
+
+.feedback {
+    display: flex;
+    justify-content: center;
+}
+.elementar-style
+{
+    display:flex;
+    justify-content: end;
+}
+.feed-para{
+    color:white;
+    font-size:18px;
+}
+.feedback-customer-name{
+    color: #4CBB17;
+    font-family: "Poppins", Sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+.feedback-customer-loc {
+    color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+    padding-top: 8px;
+}
+
+@media only screen and (min-width:1200px) {
+    .ev_images{
+        position: relative;
+        top: 279px;
+    }
+}
+.feed-sty{
+    height:18px;
+    width: 18px!important;
+}
+.ev-img-txt{
+    position: relative;
+    top: 166px;
+}
+@media (max-width:890px){
+    .ev-img-txt{
+        font-size: 41px;
+    }
+}
+.color-wo{
+    color:#FFFFFF!important;
+}
+/* boder css for tab mode */
+@media (min-width: 730px) and (max-width: 1200px)
+{.card-ban
+    {
+    height: 330px!important;
+    }
+}
+ @media (min-width:768px) and (max-width:1199px)
+{.ev_images
+    {
+      display:flex;
+      align-items: flex-end;
+    }
+   
+ 
+} 
+
+@media (max-width: 768px)
+ {.find
+  {  line-height: 40px;
+    font-size: 40px;
+}
+}
+@media(max-width:320px){
+.message-style{
+    font-size:11px;
+}
+}
+.elec-para-sty {
+max-width: 648px;
+line-height: 1.5;
+}

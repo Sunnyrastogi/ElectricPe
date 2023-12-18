@@ -1,0 +1,99 @@
+.footer-background-head{
+    background-color:black;
+}
+.electric-logo {
+    width: 300px;
+    height: 53px;
+
+}
+@media (max-width:768px){
+   .app-icons {
+ display :none !important ;
+    }
+    .footer-list-item{
+    display :none!important;
+    }
+}
+@media(max-width:320px)
+
+{.electric-logo
+    {
+width:100%;
+}
+}
+.elementor-icon {
+    color: white;
+    font-size: 46px;
+}
+.app-icons{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.footer-list-item{
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+    text-decoration:none;
+    font-size: 18px;
+    padding-top: 67px;
+
+}
+.footer-list-item ul{
+list-style-type: none;
+}
+.app-color{
+    color:white;
+}
+
+.dashed-line{
+    border: 1px solid;
+    border-style: dotted;
+}
+.footer-widget-last ul li{
+list-style-type: none;
+color:white;
+}
+.widget{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+@media (max-width:970px){
+    .widget
+    {
+justify-content: center;
+    }
+}
+.footer-last-sec{
+    background-color:  #171717;
+}
+.widget-style a{
+    color:white;
+}
+.foot-mid-left h3{
+    margin-bottom: 25px;
+    font-size: 17px;
+    font-family: popins,sans-serif;
+    font-weight: 600;
+}
+.social-list {
+    font-size: 25px;
+    color:white;
+}
+
+@media (min-width:768px) and(max-width:991px)
+{
+    .foot-no
+    {
+      display: none!important;
+    }
+    .footer-mid-column-1{
+     text-align: left;
+    }
+    .footer-mid-column-3{
+    text-align: right;
+    }
+}

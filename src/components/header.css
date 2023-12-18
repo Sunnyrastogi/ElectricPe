@@ -1,0 +1,124 @@
+
+/* .navbar-align-top{
+    top: 0;
+    position: absolute;
+    width: 100%;
+} */
+.btn svg {
+    color: white!important;
+}
+
+
+@media (min-width:991px){
+    .btn svg
+    {
+     display:none;
+    }
+}
+.navbar-nav{
+    text-align: left;
+}
+.nav-background-style{
+background-color:#131313;
+}
+.nav-link a{
+    color: #ffffff !important;
+    font-size:18px;
+}
+.nav-item Link{
+    color: white !important;
+}
+
+.dropdown-item a{
+    color:black;
+}
+@media (min-width: 992px){
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    justify-content: space-around;
+}
+}
+.nav-background{
+    background-color: transparent;
+}
+@media (max-width:977px){
+    .nav-background {
+        --bs-bg-opacity: 1;
+        background-color: #131313!important;
+    }
+}
+
+li{
+    text-decoration: none;
+    list-style-type: none;
+}
+.btn{
+    border: none;
+   font-size: 20px;
+    background-color: transparent;
+}
+
+.btn:hover {
+    color:#FFFFFF;
+    background-color: transparent!important;
+    border-color: none!important;
+}
+.nav-links:focus, .nav-links:hover {
+    color: #FFFFFF!important;
+}
+.nav-links li {
+    color:#FFFFFF;
+}
+#basic-nav-dropdown{
+    color:#ffffff;
+}
+.dropdown-menu{
+    background-color:#131313;
+    --bs-dropdown-border-color:none!important;
+}
+@media (max-width:768px){
+.dropdown-divider{
+border-top:none;
+}}
+
+.dropdown-item{
+    color:white;
+}
+.navbar .nav-links.active, .navbar .nav-links.show {
+    color: #4CBB17!important; 
+}
+@media (max-width:768px){
+   .nav-item {
+    margin-right:0!important;
+    }
+}
+.nav-link a:hover{
+    color:#4CBB17!important;
+    background-color: black!important;
+}
+.nav-item a:hover{
+    color:#4CBB17!important;
+    background-color:black;
+}
+/* .nav-link a:visited{
+    color:#4CBB17!important;
+} */
+.Nav-bar-style {
+    background-color: transparent;
+    z-index: 999;
+    width: 100%;
+    position: absolute;
+    top: 0;
+}
+
+.elec-logo img{
+   width:118px;
+   height:24px;
+}
+
+@media (max-width:768px){
+   .mobile-adjust-nav {
+     padding:0;
+    }
+}
